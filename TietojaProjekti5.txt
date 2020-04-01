@@ -1,0 +1,28 @@
+tapahtuma.epizy.com
+
+$serverName = 'sql210.epizy.com';			$sN
+$serverName = 'sql210.byetcluster.com';
+$userName = 'EPIZ_25300333';			$uN
+$dbPassWord = 'JariJyri123';
+$dbPassWord = 'vtnm42c0';			$Pw
+$dbName = 'EPIZ_25300333_Projekti5';		$dN
+$tableName = 'Tapahtuma';			$tN
+$testiTable = 'testiDB';				$tDB
+////////////////////////////////////////
+serverName = sql210.epizy.com,
+userName = EPIZ_25300333,
+password = vtnm42c0.
+////////////////////////////////////////
+Cpanel URL: http://cpanel.epizy.com
+
+Username:   EPIZ_25300333
+Password:   vtnm42c0
+
+FTP Username:  EPIZ_25300333
+FTP Password:  vtnm42c0
+FTP HostName:  ftp.epizy.com
+
+MySQL Host Name: sql210.epizy.com
+
+MySQL Password:  vtnm42c0
+MySQL UserName:  EPIZ_25300333
